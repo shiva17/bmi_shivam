@@ -12,7 +12,7 @@ from PIL import Image
 
 html_code = """
         <div style="background-color: #1abc9c; padding:  10px; border-radius: 10px">
-          <h1 style="color:white; text-align: center">BMI Calculator</h1>
+          <h1 style="color:white; text-align: center">Body Mass Index Calculator</h1>
         </div>
         """
 components.html(html_code)     
